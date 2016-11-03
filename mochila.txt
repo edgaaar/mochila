@@ -1,0 +1,24 @@
+50
+5 6 cuchillo
+9 10 agua
+7 9 chocolate
+0 5 dinero
+6 2 reloj
+9 2 encendedor
+12 10 botiquin
+6 5 lampara
+7 10 toalla
+10 15 sleeping
+5 20 balas
+8 9 brujula
+9 9 mapa
+10 5 ropa
+5 5 ventilador
+6 6 audifonos
+2 18 baterias
+7 9 martillo
+10 8 arco
+10 7 flechas
+6 5 pistola
+8 7 balas
+10 10 atun
